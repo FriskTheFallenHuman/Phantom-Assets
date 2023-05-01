@@ -1,0 +1,23 @@
+//Engine
+
+#include "script/doom_defs.script"
+#include "script/doom_events.script"
+
+
+//Base Scripts
+
+#include "script/doom_util.script"
+#include "script/actor_base.script"
+#include "script/ai_enemy_base.script"
+#include "script/player_base.script"
+#include "script/weapon_base.script"
+#include "script/weapon_unarmed.script"
+#include "script/weapon_flashlight_new.script"
+
+
+void doom_main()
+{
+	sys.print( "Entering doom_main() function...\n");
+	//Here you can include any code you want to execute when the game loads...
+	sys.print( "Leaving doom_main() function...\n" );
+}

@@ -1,0 +1,12 @@
+entityDef cin_base
+{
+	"inherit"				"func_animate"
+	"editor_color"			"1 .5 .3"
+	"editor_mins"			"-16 -16 0"
+	"editor_maxs"			"16 16 32"
+	"editor_copy2"			"anim"
+
+	"spawnclass"			"idAnimated"
+	"cycle"					"1"
+	"wait"					"-1"
+}

@@ -1,0 +1,66 @@
+// Dark Developter Textures
+
+textures/dev/dark_texture_01
+{
+    diffusemap	textures/dev/dark_texture_01.tga
+}
+
+textures/dev/dark_texture_02
+{
+    diffusemap	textures/dev/dark_texture_02.tga
+}
+
+textures/dev/dark_texture_03
+{
+    diffusemap	textures/dev/dark_texture_03.tga
+}
+
+textures/dev/dark_texture_04
+{
+    diffusemap	textures/dev/dark_texture_04.tga
+}
+
+textures/dev/dark_texture_05
+{
+    diffusemap	textures/dev/dark_texture_05.tga
+}
+
+textures/dev/dark_texture_06
+{
+    diffusemap	textures/dev/dark_texture_06.tga
+}
+
+textures/dev/dark_texture_07
+{
+    diffusemap	textures/dev/dark_texture_07.tga
+}
+
+textures/dev/dark_texture_08
+{
+    diffusemap	textures/dev/dark_texture_08.tga
+}
+
+textures/dev/dark_texture_09
+{
+    diffusemap	textures/dev/dark_texture_09.tga
+}
+
+textures/dev/dark_texture_10
+{
+    diffusemap	textures/dev/dark_texture_10.tga
+}
+
+textures/dev/dark_texture_11
+{
+    diffusemap	textures/dev/dark_texture_11.tga
+}
+
+textures/dev/dark_texture_12
+{
+    diffusemap	textures/dev/dark_texture_12.tga
+}
+
+textures/dev/dark_texture_13
+{
+    diffusemap	textures/dev/dark_texture_13.tga
+}

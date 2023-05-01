@@ -1,0 +1,17 @@
+player_sounds_heartbeat
+{
+	minDistance	5
+	maxDistance	20
+	volume	0
+
+	sound/null.wav
+}
+
+player_sounds_hitarmor
+{
+	minDistance	5
+	maxDistance 20
+	volume	0
+
+	sound/null.wav
+}
